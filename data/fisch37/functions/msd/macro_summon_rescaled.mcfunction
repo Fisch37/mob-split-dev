@@ -1,0 +1,1 @@
+$summon $(id) ~ ~ ~ {ExplosionRadius:$(explosion),Attributes:[{Name:generic.scale,Base:$(scale)}, {Name:generic.max_health,Base:$(health)}], CustomName:$(name)}
